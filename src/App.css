@@ -1,0 +1,23 @@
+.App {
+  padding: 40px;
+  height: 100vh;
+}
+
+.gridItems {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-div {
+  width: 300px;
+  border: 1px solid red;
+  margin: 0 auto;
+}

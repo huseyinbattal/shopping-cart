@@ -1,0 +1,46 @@
+.card {
+  width: 200px;
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: pink;
+
+  color: #495057;
+  border-radius: 20px;
+  box-shadow: 0 10px 12px 0 rgba(193, 30, 30, 0.4);
+}
+
+.card:hover {
+  box-shadow: 0 14px 14px 0 rgba(110, 14, 188, 0.6);
+}
+
+.card-body {
+  background-color: pink;
+  color: #495057;
+  border-radius: 4px;
+}
+
+/* .card-button{
+
+    font-size: 14px,
+    
+    color: white,
+    padding: 10px,
+    width: 50px,
+    border-radius: 10px,
+    border: none,
+} */
+
+.card-button {
+  background-color: green;
+  font-size: 16px;
+  color: white;
+  padding: 10px;
+  width: 75px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
+}
+
+.card-button:hover{
+  box-shadow: 0px 0px 5px 5px
+}
