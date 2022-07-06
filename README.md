@@ -1,6 +1,6 @@
 # Shopping Cart
 
-In this project I used React.js (props,function componentS, Hooks[useState()])
+In this project I used React.js (props,function components, Hooks[useState()])
 
 
 
